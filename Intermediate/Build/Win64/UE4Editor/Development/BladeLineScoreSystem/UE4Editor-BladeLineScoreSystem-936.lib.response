@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BladeLineScoreSystem-936.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjectFile\SecurityPlugin\Intermediate\Build\Win64\SecurityPluginEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UnrealProjectFile\SecurityPlugin\Plugins\BladeLineScoreSystem\Intermediate\Build\Win64\UE4Editor\Development\BladeLineScoreSystem\Module.BladeLineScoreSystem.cpp.obj"
+"D:\UnrealProjectFile\SecurityPlugin\Plugins\BladeLineScoreSystem\Intermediate\Build\Win64\UE4Editor\Development\BladeLineScoreSystem\Module.BladeLineScoreSystem.gen.cpp.obj"
+"D:\UnrealProjectFile\SecurityPlugin\Plugins\BladeLineScoreSystem\Intermediate\Build\Win64\UE4Editor\Development\BladeLineScoreSystem\PCLaunch.rc.res"
+/OUT:"D:\UnrealProjectFile\SecurityPlugin\Plugins\BladeLineScoreSystem\Intermediate\Build\Win64\UE4Editor\Development\BladeLineScoreSystem\UE4Editor-BladeLineScoreSystem-936.lib"

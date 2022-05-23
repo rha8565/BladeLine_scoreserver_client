@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BladeLineScoreSystem.cpp.obj": [
+			"BladeLineScoreSystem.cpp.obj",
+			"LatentDataTunnel.cpp.obj",
+			"LatentGetRanking.cpp.obj",
+			"LatentRankCheck.cpp.obj",
+			"RankingBoardActor.cpp.obj",
+			"ThreadGetRankingData.cpp.obj",
+			"ThreadRankCheck.cpp.obj",
+			"ThreadTcpConnect.cpp.obj",
+			"ThreadUpdateRanking.cpp.obj",
+			"UpdateRankingAction.cpp.obj"
+		],
+		"Module.BladeLineScoreSystem.gen.cpp.obj": [
+			"BladeLineScoreSystem.init.gen.cpp.obj",
+			"RankingBoardActor.gen.cpp.obj"
+		]
+	}
+}
